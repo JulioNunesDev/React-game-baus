@@ -16,5 +16,7 @@
 <video width="320" height="240"> 
 <source  src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" type="video/gif"></>
 </video>
-https://user-images.githubusercontent.com/78341732/167310628-5e5af35b-896b-470d-bb32-49db93b8ed32.MP4
+
+<img src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" />
+
 
