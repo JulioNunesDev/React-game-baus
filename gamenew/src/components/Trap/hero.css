@@ -1,0 +1,11 @@
+
+
+@keyframes trap {
+    from {
+        background-position-x: 0px;
+      }
+      
+      to{
+        background-position-x: -384px;
+      }
+}
