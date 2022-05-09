@@ -1,7 +1,10 @@
 
 <hr/>
 <hr/>
-<h1 align="center">Nota de aprendizado nesse projeto</h1> 
+<h1 align="center">Nota de aprendizado: </h1> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Aproveitamento de quase 70% nesse projeto, aprendendo uma forte base de Array e laços de loop e dobre funcionalidades....
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <hr/>
 <hr/>
 
