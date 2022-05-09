@@ -34,11 +34,12 @@
 <hr/>
 <hr/>
 <hr/>
-<h1>Desenvolvimento 50%</h1>
+<h1>Desenvolvimento 75%</h1>
 <hr/>
 <hr/>
 <hr/>
-<p>Colocada a movimentação no Hero e nos Mobs</p>
+  
+<p>Fazendo map Visual do Debugger de colisão</p>
 
 <img src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" />
   
