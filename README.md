@@ -42,7 +42,7 @@
 <hr/>
 <hr/>
 <hr/>
- <h1>Desenvolvimento 50%</h1>
+ <h1>Desenvolvimento 75% ++1</h1>
  <hr/>
 <hr/>
 <hr/>
