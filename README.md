@@ -1,6 +1,13 @@
 
+<hr/>
+<hr/>
+<h1 align="center">Nota de aprendizado nesse projeto</h1> 
+<hr/>
+<hr/>
 
-<h1>Nota de aprendizado nesse projeto</h1> 
+
+
+
 
 
 <div align="center" >
