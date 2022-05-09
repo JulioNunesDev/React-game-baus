@@ -8,7 +8,7 @@
 
 
 
-<div style="textAlign: 'center' ">
+<div style="textAlign: center ">
 
 <h1>Desenvolvimento 50%</h1>
 <p>Colocada a movimentação no Hero e nos Mobs</p>
