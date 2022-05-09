@@ -36,7 +36,7 @@
   
 <p>Map Visual do Debugger de colisão, e --fix bugs </p>
 
-<img src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" />
+<img src="https://user-images.githubusercontent.com/78341732/167357438-c72bca76-85ba-4cbe-9e79-2181186e9960.png" />
   
   
 <hr/>
@@ -48,5 +48,5 @@
 <hr/>
   
 <p>Map Area Array Bidimensional</p>
-<img src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" />
+<img src="https://user-images.githubusercontent.com/78341732/167357441-fb8631a5-b239-4875-b955-23727a0df8ac.png" />
 </div>
