@@ -1,14 +1,17 @@
-# React-game-baus
+
+
+
+
+<div align="center" >
+
+  
+# Game RPG : <h1 color"#fafafa">knightSolitary</h1>
 
 <h1>Desenvolvimento 10%</h1>
 
 <img src="https://user-images.githubusercontent.com/78341732/167279705-7da0649a-f3d5-45c8-a2bd-f3a2fd22e0e9.png" />
 
 
-
-
-
-<div align="center" >
 
 <h1>Desenvolvimento 50%</h1>
 <p>Colocada a movimentação no Hero e nos Mobs</p>
