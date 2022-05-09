@@ -5,7 +5,7 @@
 <div align="center" >
 
   
-# Game RPG : <h1 color="blue">knightSolitary</h1>
+# Game RPG : <h1 style="color: blue;">knightSolitary</h1>
 
 <h1>Desenvolvimento 10%</h1>
 
