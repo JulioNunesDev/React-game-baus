@@ -10,7 +10,7 @@ export default function Chest() {
     
       <div style={{
         position: 'absolute',
-        bottom: 48 * 5,
+        top: 48 * 5,
         left: 48,
         backgroundImage: 'url(../../../../../public/assets/CHEST.png)',
         height: TILE_SIZE,

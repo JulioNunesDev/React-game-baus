@@ -5,14 +5,21 @@ import './hero.css'
 
 
 
-
-export default function MiniDemon() {
-  const moviment = useEnemyMoviment({x: 8, y: 15})
+interface IProps {
+  initialPosition: {
+    x: number;
+    y: number;
+  }
+ 
+}
+export default function MiniDemon(props: IProps) {
+  const moviment = useEnemyMoviment(props.initialPosition)
+  
   return (
     
       <div style={{
         position: 'absolute',
-        bottom: TILE_SIZE * moviment.position.y,
+        top: TILE_SIZE * moviment.position.y,
         left: TILE_SIZE * moviment.position.x,
         backgroundImage: 'url(../../../../../public/assets/MINI-DEMON.png)',
         height: TILE_SIZE + HEAD_OFFSET,

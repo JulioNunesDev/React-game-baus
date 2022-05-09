@@ -11,16 +11,24 @@ import { EDIrection } from '../../settings/constants'
     const [direction, setDirection]=useState(EDIrection.RIGHT)
   
   useEffect(()=>{
-   
+    
 
     const movimentoHero =(event: any)=>{
 
       const direction  = event.key as EDIrection
+
+      if(direction.indexOf('Arrow') === -1){
+        return;
+      }
+
       const nextPosition = handNextPosition(direction, positionState)
-        setDirection(direction)
-        setPositionState(nextPosition)
+      setDirection(direction)
+      setPositionState(nextPosition)
+ 
     }
     window.addEventListener('keydown', movimentoHero )
+
+    
 
     return ()=>{
       window.removeEventListener('keydown', movimentoHero )

@@ -10,7 +10,7 @@ export default function Trap() {
     
       <div style={{
         position: 'absolute',
-        bottom: 48 * 2,
+        top: 48 * 2,
         left: 48,
         backgroundImage: 'url(../../../../../public/assets/TRAP.png)',
         height: TILE_SIZE + HERO_HEKMET_OFFSET,

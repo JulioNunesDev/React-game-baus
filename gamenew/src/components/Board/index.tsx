@@ -9,7 +9,8 @@ import Trap from "../Trap";
 export default function Board() {
   return (
       <div>
-        <MiniDemon />
+        <MiniDemon initialPosition={{x: 2, y:4 }} />
+        <MiniDemon initialPosition={{x: 10, y:10 }} />
         <Chest />
         <Demon />
           <Hero />

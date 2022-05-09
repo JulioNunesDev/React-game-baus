@@ -14,7 +14,7 @@ export default function Demon() {
     
       <div style={{
         position: 'absolute',
-        bottom: TILE_SIZE * moviment.position.y,
+        top: TILE_SIZE * moviment.position.y,
         left: TILE_SIZE * moviment.position.x,
         backgroundImage: 'url(../../../../../public/assets/DEMON.png)',
         height: DEMON_TILE_SIZE,
