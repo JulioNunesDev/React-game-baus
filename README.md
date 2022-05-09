@@ -11,7 +11,7 @@
 
 
 <h1>Desenvolvimento 50%</h1>
-<p>Colocada a movimentação nos Hero e nos Mobs</p>
+<p>Colocada a movimentação no Hero e nos Mobs</p>
 
 <video width="320" height="240"> 
 <source  src="https://user-images.githubusercontent.com/78341732/167310759-9c7776c0-9378-4605-94e3-86f8a7bf7a66.gif" type="video/gif"></>
