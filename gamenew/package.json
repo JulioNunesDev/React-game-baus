@@ -10,6 +10,7 @@
   "dependencies": {
     "@types/styled-components": "^5.1.25",
     "@use-it/event-listener": "^0.1.7",
+    "@use-it/interval": "^1.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "styled-components": "^5.3.5"
